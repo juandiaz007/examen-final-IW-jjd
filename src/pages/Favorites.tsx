@@ -3,12 +3,16 @@ import DragonList from '../components/DragonList'
 import EmptyState from '../components/EmptyState'
 
 export default function Favorites() {
-    const { favorites } = useFavorites()
+  const { favorites } = useFavorites()
 
-    return (
-        <div className="p-4">
-            <h1 className="text-2xl mb-4">Mis Favoritos</h1>
-            {favorites.length === 0 ? <EmptyState /> : <DragonList dragons={favorites} />}
-        </div>
-    )
+  return (
+    <div className="p-6 min-h-screen bg-purple-500">
+      <h1 className="text-3xl text-yellow-400 font-bold mb-6">Mis chiquillos favoritos</h1>
+
+      {favorites.length === 0
+        ? <EmptyState />
+        : <DragonList dragons={favorites} />
+      }
+    </div>
+  )
 }
