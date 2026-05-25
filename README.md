@@ -31,9 +31,13 @@ function Question() {
 ```
 All icons: https://react-icons.github.io/react-icons/
 
-### Errores con la version de Node
+## Errores con la version de Node
 Yo hice el codigo con la versión de 24 de Node, lo cual produjo errores a la hora de crear el código. A pesar de todos estos errores, hice el código con lo que aprendí en clase y con la ayuda de repositorios de otros proyectos de Front-end vistos en clase.
+
+### Usuarios git
+Mi usuario root de git es "juanj", el cual usé para los commits dentro de terminal. Mi usuario de Github es juandiaz007, el cual usé para hacer cambios al README.
 
 ### Repositorios usados:
 https://github.com/Silvia-Suarez/concerthub.git
+
 https://github.com/Silvia-Suarez/concerts.com.git
