@@ -1,6 +1,6 @@
 # DragonDex - Examen Final
 
-Catálogo de dragones usando PokéAPI.
+Catálogo de dragones usando PokéAPI. Por: Juan José Díaz
 
 ## Instalación
 1. Clonar el repositorio
@@ -30,3 +30,10 @@ function Question() {
 }
 ```
 All icons: https://react-icons.github.io/react-icons/
+
+### Errores con la version de Node
+Yo hice el codigo con la versión de 24 de Node, lo cual produjo errores a la hora de crear el código. A pesar de todos estos errores, hice el código con lo que aprendí en clase y con la ayuda de repositorios de otros proyectos de Front-end vistos en clase.
+
+### Repositorios usados:
+https://github.com/Silvia-Suarez/concerthub.git
+https://github.com/Silvia-Suarez/concerts.com.git
